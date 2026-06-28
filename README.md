@@ -75,6 +75,6 @@ While building this project, I learned how to:
 
 ## Author
 
-Anshul Yadav
+Aman kumar
 
-B.Tech Student | Aspiring AI Engineer
+
